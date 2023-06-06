@@ -1,0 +1,2 @@
+- 合并分支代码但不提交合并结果
+  - git merge --no-commit <branch>
